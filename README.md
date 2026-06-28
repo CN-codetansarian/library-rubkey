@@ -25,7 +25,4 @@ async def main():
 if __name__ == "__main__":
     asyncio.run(main())
 ```
-
-MIT License
-
-![Rubkey](rubkey.png)
+[![Documentation](https://img.shields.io/badge/Documentation-Rubkey-blue?style=flat&logo=github)](https://CN-codetansarian.github.io/Rubkey_documentation/)
